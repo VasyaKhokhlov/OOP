@@ -1,7 +1,7 @@
 package HW1_task1;
 import java.text.MessageFormat;
 
-public class cat {
+public class Cat {
     private String name;
     private  int age;
     private Owner ownerName;
